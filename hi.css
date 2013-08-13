@@ -1,0 +1,40 @@
+* {
+	font-family: Garamond, serif;
+}
+
+body {
+	width: 400px;
+	margin: auto;
+	background-color: #99CCFF;
+	margin-top: 12.5%;
+}
+
+#name {
+	font-size: 50px;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 20px;
+	padding: 10px;
+	border-right: 1px solid black;
+	border-radius: 25%;
+}
+
+#bio {
+	padding-top: 30px;
+}
+
+#links {
+	margin:0px;
+	clear: both;
+	list-style-type: none;
+}
+
+body > ul li {
+	margin:auto;
+	display:inline;
+	padding:10px;
+}
+
+#working {
+	clear: both;
+}
